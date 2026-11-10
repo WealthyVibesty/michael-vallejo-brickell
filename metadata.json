@@ -1,0 +1,6 @@
+{
+  "name": "Michael Vallejo | Brickell Residential Advisory",
+  "description": "Curated luxury rentals, condo acquisitions, and corporate tenant placement in Downtown Brickell, Miami with residential specialist Michael Vallejo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
